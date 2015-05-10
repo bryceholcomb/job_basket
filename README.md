@@ -36,6 +36,6 @@ You know the drill:
 5. Submit a pull request.
 
 ## Credits
-Front-end: [Scott Crawford](https://github.com/scottcrawford03), [Byrce Holcomb](https://github.com/bryceholcomb), [Konr Larson](https://github.com/bmrsny), and [Brandon Mrsny](https://github.com/bmrsny)
+Front-end: [Scott Crawford](https://github.com/scottcrawford03), [Bryce Holcomb](https://github.com/bryceholcomb), [Konr Larson](https://github.com/bmrsny), and [Brandon Mrsny](https://github.com/bmrsny)
 
 Back-end: [Emily Berkeley](https://github.com/EmilyMB), [Michael Dao](https://github.com/mikedao), [Nathan Owsiany](https://github.com/ndwhtlssthr), and [Adam Smith](https://github.com/AdamSmith910)
